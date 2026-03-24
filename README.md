@@ -1,5 +1,4 @@
-<body style="background-color: #FCF0E4;">
-    
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=CD5C5C" />
 
 <div align="center">
@@ -30,5 +29,3 @@
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=CD5C5C&height=100&section=footer" />
-
-</body>
