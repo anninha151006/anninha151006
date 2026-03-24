@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: addicted to pop culture
+- ⚡ Fun fact: addicted to
 
 <!---
 anninha151006/anninha151006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
